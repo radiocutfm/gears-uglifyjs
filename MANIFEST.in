@@ -2,4 +2,3 @@ include LICENSE
 include README.rst
 
 include gears_uglifyjs/compressor.js
-recursive-include gears_uglifyjs/node_modules *
